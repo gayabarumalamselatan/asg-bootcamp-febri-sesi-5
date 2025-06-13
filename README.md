@@ -7,3 +7,5 @@ How to run the app:
 - Run "npm install"
 - To start the app, run "npm run dev"
 - The app is running on localhost:5173
+
+Github Link: https://github.com/gayabarumalamselatan/asg-bootcamp-febri-sesi-5.git
